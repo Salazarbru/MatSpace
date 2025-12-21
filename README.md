@@ -23,7 +23,7 @@ El objetivo de MatSpace es resolver la fragmentación de información y simplifi
 
 ## 👥 Equipo de Desarrollo
 
-| [<img src="fotos/Rodrigo.JPG" width="150"><br><sub>**Rodrigo Salazar**</sub>](www.linkedin.com/in/rodrigoprz) | [<img src="https://github.com/usuario-misa.png" width="150"><br><sub>**Misael Alcocer**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_MISAEL) | [<img src="https://github.com/usuario-leo.png" width="150"><br><sub>**Leonardo San Martín**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_LEONARDO) | [<img src="https://github.com/usuario-javier.png" width="150"><br><sub>**Javier Toache**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_JAVIER) |
+| [<img src="fotos/Rodrigo.JPG" width="150"><br><sub>**Rodrigo Salazar**</sub>](https://www.linkedin.com/in/rodrigo-israel-salazar-a826432b0/) | [<img src="https://github.com/usuario-misa.png" width="150"><br><sub>**Misael Alcocer**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_MISAEL) | [<img src="https://github.com/usuario-leo.png" width="150"><br><sub>**Leonardo San Martín**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_LEONARDO) | [<img src="https://github.com/usuario-javier.png" width="150"><br><sub>**Javier Toache**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_JAVIER) |
 | :---: | :---: | :---: | :---: |
 | **Líder de Proyecto** | **Desarrollo Técnico** | **Desarrollo Técnico** | **Documentación** |
 | Front, Creatividad y Mockups | Arquitectura e Implementación | Arquitectura e Implementación | Gestión de Procesos |
