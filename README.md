@@ -1,5 +1,35 @@
-# MatSpace 
-**Gestión Inteligente de Espacios y Horarios - Facultad de Ingeniería UADY**
+<p align="center">
+  <img src="fotos/MatSpace.png" alt="MatSpace Logo" width="200">
+</p>
 
-MatSpace es una plataforma diseñada para sincronizar la vida académica de los estudiantes de Ingeniería de Software. Permite visualizar el cronograma semestral en tiempo real, gestionar la reserva de cubículos en biblioteca y solicitar salones para sesiones de estudio o asesorías.
+<h1 align="center">MatSpace 🎓📐</h1>
 
+<p align="center">
+  <strong>Optimización y gestión académica para la comunidad de la Facultad de Matemáticas - UADY.</strong>
+</p>r.
+
+---
+
+## 🚀 Propósito del Proyecto
+El objetivo de MatSpace es resolver la fragmentación de información y simplificar la reserva de recursos dentro de la facultad, permitiendo que los alumnos se enfoquen en su desempeño académico.
+
+## ✨ Características Principales
+* **📅 Control Escolar:** Visualización de horarios y calendario oficial.
+* **📢 Eventos y Charlas:** Cartelera digital de conferencias y talleres.
+* **🏢 Gestión de Espacios:** Consulta de disponibilidad de salones en tiempo real.
+* **📚 Reservaciones:** Sistema de apartado para cubículos de la biblioteca.
+
+---
+
+## 👥 Equipo de Desarrollo
+
+| [<img src="fotos/Rodrigo.JPG" width="150"><br><sub>**Rodrigo Salazar**</sub>](www.linkedin.com/in/rodrigoprz) | [<img src="https://github.com/usuario-misa.png" width="150"><br><sub>**Misael Alcocer**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_MISAEL) | [<img src="https://github.com/usuario-leo.png" width="150"><br><sub>**Leonardo San Martín**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_LEONARDO) | [<img src="https://github.com/usuario-javier.png" width="150"><br><sub>**Javier Toache**</sub>](https://www.linkedin.com/in/URL_DE_LINKEDIN_JAVIER) |
+| :---: | :---: | :---: | :---: |
+| **Líder de Proyecto** | **Desarrollo Técnico** | **Desarrollo Técnico** | **Documentación** |
+| Front, Creatividad y Mockups | Arquitectura e Implementación | Arquitectura e Implementación | Gestión de Procesos |
+
+---
+
+
+---
+Desarrollado con ❤️ para la comunidad de la Facultad de Matemáticas - UADY.
